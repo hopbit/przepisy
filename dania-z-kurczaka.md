@@ -22,8 +22,8 @@ __Przygotowanie__
     ok. 7-10 min, nastepnie wrzuć  
     do piekarnika na 7-10 min nast.  
     na 160 st. C. 
-4.  Podgrzej na patelni oliwe i wrzuc 
-    kurczaka. Smaz z obu stron az zrobi 
+4.  Podgrzej na patelni oliwe i wrzuc  
+    kurczaka. Smaz z obu stron az zrobi  
     sie zlotobrazowy. Dodaj posiekany  
     czosnek pod koniec i wymieszaj.  
     (jesli dodasz zbyt wczesnie czosnek  
