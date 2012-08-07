@@ -4,12 +4,13 @@
 
 __Skladniki__
 
-* ryż
+* 100g ryżu
 * zielona fasolka szparagowa (mrozona)
 * piers z kurczaka 
-* oliwa z oliwek
+* 2 lyzki oliwy z oliwek
 * 1 lyzka sosu sojowego
 * 2 zabki czosnku
+* sol
 
 __Przygotowanie__
 
