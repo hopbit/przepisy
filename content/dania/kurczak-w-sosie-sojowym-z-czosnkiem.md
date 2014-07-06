@@ -1,6 +1,10 @@
-----
-
-## Kurczak w sosie sojowym z czosnkiem ##
+Title: Kurczak w sosie sojowym z czosnkiem
+Date: 2014-07-06
+Category: Dania
+Tags: kurczak, czosnek, sos sojowy
+Slug: kurczak-w-sosie-sojowym-z-czosnkiem
+Author: Łukasz Siwiński
+Summary: Zobacz przepis
 
 __Skladniki__
 

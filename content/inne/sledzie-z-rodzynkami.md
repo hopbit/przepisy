@@ -1,4 +1,10 @@
-# Sledzie z rodzynkami #
+Title: Śledzie z rodzynkami
+Date: 2014-07-06
+Category: Inne
+Tags: ryby
+Slug: sledzie-z-rodzynkami
+Author: Łukasz Siwiński
+Summary: 
 
 skladniki:
 

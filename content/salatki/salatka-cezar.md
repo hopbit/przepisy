@@ -1,9 +1,10 @@
-Salatki
-=======
-
--------------------------------------------------------------------------------
-
-## Cezar ##
+Title: Sałatka Cezar
+Date: 2014-07-06
+Category: Sałatki
+Tags: kurczak
+Slug: salatka-cezar
+Author: Łukasz Siwiński
+Summary: 
 
 **Skladniki**
 
@@ -40,4 +41,4 @@ wysyp na nia mieszanke warzyw i polej sosem.
 Dorzuc grzanki i uloz usmazone, jeszcze 
 cieple paski kurczaka.
 
--------------------------------------------------------------------------------
+

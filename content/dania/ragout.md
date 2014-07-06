@@ -1,6 +1,10 @@
-----
-
-## Ragout ##
+Title: Ragout
+Date: 2014-07-06
+Category: Dania
+Tags: wieprzowina, ryz
+Slug: ragout
+Author: Łukasz Siwiński
+Summary: 
 
 __Skladniki__
 
