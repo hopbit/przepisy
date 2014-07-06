@@ -1,0 +1,5 @@
+content.iml
+srv.pid
+pelican.pid
+.idea/
+*.pyc
