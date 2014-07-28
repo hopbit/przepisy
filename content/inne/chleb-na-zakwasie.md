@@ -6,20 +6,20 @@ Slug: chleb-na-zakwasie
 Author: Łukasz Siwiński
 Summary: 
 
-**Składniki na 2 blachy:**
+**Składniki na 1 chleb**
 
-* 1kg mąki tortowej (pszenna typ 450)
-* 1/2kg mąki zytniej
-* 1 szklanka otrębów pszennych
-* 1 szklanka płatków owsianych
-* 1 szklanka ziaren słonecznika
-* 1 szklanka pestek z dyni
-* 1/2 szklanki siemienia lnianego (80g)
-* 1/2 szklanki mleka
-* 3 łyżeczki cukru
-* 3 łyżeczki soli
-* 6 szklanek ciepłej wody 
-* min. 3 duże łyżki zakwasu
+400g mąki tortowej (pszenna typ 450)
+200g mąki zytniej
+100ml otrębów pszennych
+100ml płatków owsianych
+100ml ziaren słonecznika
+100ml pestek z dyni
+50ml siemienia lnianego (80g)
+1 łyżeczka cukru
+1 łyżeczka soli
+600ml ciepłej wody
+50ml mleka
+min. 2 duże łyżki zakwasu
 
 **Przygotowanie:**
 
