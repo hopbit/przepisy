@@ -1,7 +1,7 @@
 Title: Pierniki
 Date: 2014-11-29
 Category: Ciasta i desery
-Tags: chleb, pieczywo
+Tags: ciastka, desery
 Slug: pierniki
 Author: Aneta
 Summary: 
